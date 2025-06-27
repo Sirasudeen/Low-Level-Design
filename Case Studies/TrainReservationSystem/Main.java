@@ -2,7 +2,7 @@ package TrainReservationSystem;
 
 import java.util.*;
 
-public class Main {// In Main.java
+public class Main {
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     BookingManager bm = BookingManager.getInstance();
